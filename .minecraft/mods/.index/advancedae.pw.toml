@@ -1,0 +1,13 @@
+filename = 'AdvancedAE-1.1.1-1.20.1.jar'
+name = 'AdvancedAE'
+side = 'both'
+
+[download]
+hash = '37ab0ef68f784438a49ee6d6cc93f689e4ced2e8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6117821
+project-id = 1084104

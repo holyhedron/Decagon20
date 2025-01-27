@@ -1,0 +1,13 @@
+filename = 'aether-1.20.1-1.5.2-neoforge.jar'
+name = 'The Aether'
+side = 'both'
+
+[download]
+hash = '158bbc7c13c038b78615f3ef1a4797cea1e2f2cc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6131320
+project-id = 255308

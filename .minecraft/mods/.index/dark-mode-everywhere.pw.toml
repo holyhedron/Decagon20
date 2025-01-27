@@ -1,0 +1,13 @@
+filename = 'DarkModeEverywhere-1.20.1-1.2.3.jar'
+name = 'Dark Mode Everywhere'
+side = 'both'
+
+[download]
+hash = 'c7993cf29452cac87508ec4b3c124ad53ff95f6f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5922792
+project-id = 574123
