@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7bdca64-b399-455f-83d5-dc7087cb9455" name="Changes" comment="Wip, finished D" />
+    <list default="true" id="b7bdca64-b399-455f-83d5-dc7087cb9455" name="Changes" comment="Wip, finished D">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/apotheosis/enchantments.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/apotheosis/enchantments.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/apotheosis/names.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/apotheosis/names.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/attributefix.json" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/attributefix.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/cucumber-tags.json" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/cucumber-tags.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/jade/plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/jade/plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/jade/sort-order.json" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/jade/sort-order.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/jei/ingredient-list-mod-sort-order.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/jei/ingredient-list-mod-sort-order.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/jei/ingredient-list-type-sort-order.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/jei/ingredient-list-type-sort-order.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/jei/recipe-category-sort-order.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/jei/recipe-category-sort-order.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/oculus.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/oculus.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/packetfixer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/packetfixer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/xaerominimap_entities.json" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/xaerominimap_entities.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toCheck" beforeDir="false" afterPath="$PROJECT_DIR$/toCheck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo" beforeDir="false" afterPath="$PROJECT_DIR$/todo" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +103,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738017730373</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Wip, finished D">
+      <option name="closed" value="true" />
+      <created>1738094433620</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738094433620</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Wip, finished D">
+      <option name="closed" value="true" />
+      <created>1738094572044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738094572044</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Wip, finished D">
+      <option name="closed" value="true" />
+      <created>1738094594043</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738094594043</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
