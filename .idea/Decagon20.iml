@@ -2,7 +2,24 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/.mixin.out" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/XaeroWaypoints_BACKUP240807" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/backups" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/coremods" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/crash-reports" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/ldlib" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/local" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/modernfix" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/mods" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/patchouli_books" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/saves" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/schematics" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/screenshots" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/server-resource-packs" />
+      <excludeFolder url="file://$MODULE_DIR$/.minecraft/xaero" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
