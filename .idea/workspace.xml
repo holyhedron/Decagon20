@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7bdca64-b399-455f-83d5-dc7087cb9455" name="Changes" comment="Wip, finished D">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Decagon20.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/instance.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mmc-pack.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toCheck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo" beforeDir="false" />
-    </list>
+    <list default="true" id="b7bdca64-b399-455f-83d5-dc7087cb9455" name="Changes" comment="Wip, finished D" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +71,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738015443264</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Wip, finished D">
+      <option name="closed" value="true" />
+      <created>1738017595768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738017595768</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Wip, finished D">
+      <option name="closed" value="true" />
+      <created>1738017730373</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738017730373</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
