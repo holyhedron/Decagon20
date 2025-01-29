@@ -6,20 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="b7bdca64-b399-455f-83d5-dc7087cb9455" name="Changes" comment="Wip, finished D">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.minecraft/config/apotheosis/enchantments.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/apotheosis/enchantments.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.minecraft/config/apotheosis/names.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/apotheosis/names.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.minecraft/config/attributefix.json" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/attributefix.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.minecraft/config/cucumber-tags.json" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/cucumber-tags.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.minecraft/config/jade/plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/jade/plugins.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.minecraft/config/jade/sort-order.json" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/jade/sort-order.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/ad_astra.jsonc" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/ad_astra.jsonc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/eidolon/basic_incense.toml" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/eidolon/basic_incense.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/eidolon/cure_zombie.toml" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/eidolon/cure_zombie.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/eidolon/dark_animal_sacrifice.toml" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/eidolon/dark_animal_sacrifice.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/eidolon/dark_prayer.toml" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/eidolon/dark_prayer.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/eidolon/dark_villager_sacrifice.toml" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/eidolon/dark_villager_sacrifice.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/eidolon/light_prayer.toml" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/eidolon/light_prayer.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/eidolon/zombify_villager.toml" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/eidolon/zombify_villager.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.minecraft/config/jei/ingredient-list-mod-sort-order.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/jei/ingredient-list-mod-sort-order.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.minecraft/config/jei/ingredient-list-type-sort-order.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/jei/ingredient-list-type-sort-order.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.minecraft/config/jei/recipe-category-sort-order.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/jei/recipe-category-sort-order.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.minecraft/config/oculus.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/oculus.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.minecraft/config/packetfixer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/packetfixer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.minecraft/config/rftoolsstorage-client.toml" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/rftoolsstorage-client.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.minecraft/config/xaerominimap_entities.json" beforeDir="false" afterPath="$PROJECT_DIR$/.minecraft/config/xaerominimap_entities.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toCheck" beforeDir="false" afterPath="$PROJECT_DIR$/toCheck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo" beforeDir="false" afterPath="$PROJECT_DIR$/todo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,9 @@
     &quot;accountId&quot;: &quot;fce6734d-ee4c-4ae6-9e05-390af5612b28&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -127,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738094594043</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Wip, finished D">
+      <option name="closed" value="true" />
+      <created>1738106439934</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738106439934</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
